@@ -112,7 +112,7 @@ http://localhost:8080/h2-console
 ###  Passos para rodar:
 1. Clone este repositório:
 ```bash
-git 
+git  clone https://github.com/soliyy/mapeamento-mottu.git
 ```
 2. Acesse o diretório do projeto:
 ```bash
@@ -149,4 +149,6 @@ com.mottu.mapeamento
 Mottu | FIAP 
 
 ##  Desenvolvido por:  
-RM: 556281
+Lucas Martins Soliman - RM: 556281
+Diego Bassalo Canals Silva - RM: 558710
+Pedro henrique jorge de paula - RM: 558833
